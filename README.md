@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hello everyone!</h1>
     <p>
-        My name is Andre Ferreira, I'm Brazilian developer and I have three <br>
+        My name is Andre Ferreira, I'm Brazilian developer, I have four <br>
         years of the expirice in web development working with TypeScript, JavaSciprt, <br>
         NodeJS, ReactJS and more tools
     </p>
